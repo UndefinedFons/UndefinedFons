@@ -1,23 +1,23 @@
-<!-- 1. 顶部格言 (引用块风格) -->
+<!-- 1. 顶部胶囊风格 Banner (自带动态波浪，非常唯美) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50" width="100%" />
+</div>
+
+<!-- 2. 顶部格言 (引用块风格) -->
 > "鳴らしていこう，" 
 > <br>
 > "継ぎ接ぎの音楽でいいから."
 
-<!-- 2. 个人简介与 Moe 计数器 -->
+<!-- 3. 个人简介 (已移除旧的像素计数器) -->
 ### Hi there, I'm Fons! 👋
 
 I am currently a student interested in programming.. 
 <br>
 Currently learning Python and AI.
 
-<!-- 萌萌的像素计数器 (已配置为你的用户名) -->
-<div align="center">
-  <img src="https://count.getloli.com/get/@UndefinedFons?theme=rule34" alt="Moe Counter" />
-</div>
-
 ---
 
-<!-- 3. 关于我 (仿照目标图的列表风格) -->
+<!-- 4. 关于我 -->
 ### 🔗 About me
 
 *   🎓 **Student** majoring in AI Study.
@@ -26,19 +26,16 @@ Currently learning Python and AI.
 *   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
-<!-- 4. 项目经历 (帮你编了两个通用的，你可以修改) -->
+<!-- 5. 项目经历 -->
 ### 📂 Projects
 
 *   **My-Blog-Theme**: A minimalist hexagon theme for personal blogs.
 
-
-<!-- 5. 语言和工具 (核心：彩色徽章) -->
+<!-- 6. 语言和工具 -->
 ### 🛠 Languages and Tools
 
-<!-- 这里使用的是 shields.io 的 for-the-badge 样式，和目标图一致 -->
 <p>
   <!-- 编程语言 -->
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -48,6 +45,7 @@ Currently learning Python and AI.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<!-- 7. 底部打字机特效名言 -->
 ### 💬 My Favorite Quote
 
 <div align="center">

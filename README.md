@@ -19,7 +19,7 @@ I am currently a student interested in programming. Currently learning Python an
 *   🎓 **Student** majoring in AI Study.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
 *   🌱 Learning **Python** and **AI**.
-*   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
+*   💬 Ask me about **Anime**, **Math**, or **AI Territory**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
 <!-- 5. 📚 精致书架版块 (卡片式布局) -->
@@ -29,7 +29,7 @@ I am currently a student interested in programming. Currently learning Python an
 *   **Author:** `[ 川端 康成 ]`
 *   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
 *   **Progress:** 
-    ![Progress](https://geps.dev/progress/45?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(45%)*
+    ![Progress](https://geps.dev/progress/10?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(45%)*
 *   *「 穿过县界长长的隧道，便是雪国了。夜空下一片白茫茫。」*
 
 <br>
@@ -38,7 +38,7 @@ I am currently a student interested in programming. Currently learning Python an
 *   **Author:** `[ Hemingway ]`
 *   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
 *   **Progress:** 
-    ![Progress](https://geps.dev/progress/70?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(70%)*
+    ![Progress](https://geps.dev/progress/50?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(70%)*
 *   *「 一个人可以被毁灭，但不能被打败。」*
 
 ---

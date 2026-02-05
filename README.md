@@ -1,28 +1,30 @@
-<!-- 1. 顶部胶囊 Banner -->
+<!-- 1. 顶部原画 Banner (移除了胶囊，换成了圆角二次元长图) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=2" width="100%" />
+  <img src="./illust_121768991_20241012_000409.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
-<!-- 2. 顶部格言 -->
+<br>
+
+<!-- 2. 动态欢迎语 (使用更细、更优雅的字体) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=Welcome+to+Fons'+Space;鳴らしていこう。" alt="Typing SVG" />
+</div>
+
+<!-- 3. 顶部引用 -->
 > "往幕胧，今犹在" 
 > <br>
 > "Hazy veil of yore, Still lingers here."
 
-<!-- 3. 个人简介 -->
-### Hi there, I'm Fons! 👋
-I am currently a student interested in programming. Currently learning Python and AI.
-
 ---
 
-<!-- 4. 关于我 -->
+<!-- 4. 🔗 关于我 -->
 ### 🔗 About me
 *   🎓 **Student** majoring in AI Study.
-*   🔭 Currently working on **Personal Website** and **Theme Design**.
+*   🔭 Currently working on **Personal Website**.
 *   🌱 Learning **Python** and **AI**.
-*   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
-<!-- 5. 📚 精致书架版块 (卡片式布局) -->
+<!-- 5. 📙 精致书架 -->
 ### 📙 My Bookshelf 
 
 #### 📖 《雪国》 | Snow Country
@@ -43,20 +45,22 @@ I am currently a student interested in programming. Currently learning Python an
 
 ---
 
-<!-- 6. 项目与技能 -->
-### 📂 Projects
-*   **My-Blog-Theme**: A minimalist hexagon theme for personal blogs.
+<!-- 6. 🛠 极简活动曲线 (替代原本臃肿的统计卡片) -->
+### 📈 Activity Trend
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UndefinedFons&theme=react-light&hide_border=true&area=true&color=FF69B4" width="100%" />
+</div>
 
-### 🛠 Languages and Tools
-<p>
+<br>
+
+<!-- 7. 底部彩色徽章 -->
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
-<!-- 7. 底部名言 (日文歌词 + 唯美字体) -->
-### 💬 My Favorite Quote
-
+<!-- 8. 底部收尾 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=鳴らしていこう;継ぎ接ぎの音楽でいいから。" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=20&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=継ぎ接ぎの音乐でいいから。" alt="Typing SVG" />
 </div>

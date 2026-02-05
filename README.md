@@ -1,12 +1,12 @@
-<!-- 1. 顶部胶囊 Banner (已换成 Lobster 字体并强制刷新) -->
+<!-- 1. 顶部胶囊 Banner (Lobster 字体) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=2" width="100%" />
 </div>
 
 <!-- 2. 顶部格言 -->
 > "鳴らしていこう，" 
 > <br>
-> "継ぎ接ぎの音乐でいいから."
+> "継ぎ接ぎの音楽でいいから."
 
 <!-- 3. 个人简介 -->
 ### Hi there, I'm Fons! 👋
@@ -53,11 +53,11 @@ Currently learning Python and AI.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- 8. 底部名言 (维持 Pacifico，这个通常生效很快) -->
+<!-- 8. 底部名言 (日文歌词 + Kaisei Tokumin 唯美字体) -->
 ### 💬 My Favorite Quote
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=The+world+is+not+beautiful;Therefore,+it+is." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Tokumin&pause=1500&color=F778BA&center=true&vCenter=true&width=500&height=50&lines=鳴らしていこう，;継ぎ接ぎの音楽でいいから。" alt="Typing SVG" />
   </a>
 </div>

@@ -1,6 +1,6 @@
-<!-- 1. 顶部胶囊 Banner -->
+<!-- 1. 顶部胶囊 Banner (已改为樱粉色 #ffb7c5) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=3" width="100%" />
 </div>
 
 <!-- 2. 顶部格言 -->
@@ -39,22 +39,23 @@ I am currently a student interested in programming. Currently learning Python an
 *   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
 *   **Progress:** 
     ![Progress](https://geps.dev/progress/70?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(70%)*
-*   *「 一个人可以被毁灭，但不能给打败。」*
+*   *「 一个人可以被毁灭，但不能被打败。」*
 
 ---
 
-<!-- 6. 项目与技能 -->
-### 📂 Projects
-*   **My-Blog-Theme**: A minimalist hexagon theme for personal blogs.
-
+<!-- 6. 🛠 技能与工具 (已分行处理) -->
 ### 🛠 Languages and Tools
+
+#### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+#### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- 7. 底部名言 (日文歌词 + 唯美字体) -->
+<!-- 7. 底部名言 -->
 ### 💬 My Favorite Quote
 
 <div align="center">

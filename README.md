@@ -1,6 +1,6 @@
-<!-- 1. 顶部：心跳/声波活跃度插件 (稳定、唯美、契合音乐主题) -->
+<!-- 1. 顶部胶囊 Banner -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UndefinedFons&theme=react&area=true&hide_border=true&bg_color=00000000&color=FF69B4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:87CEFA&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=2" width="100%" />
 </div>
 
 <!-- 2. 顶部格言 -->
@@ -22,7 +22,7 @@ I am currently a student interested in programming. Currently learning Python an
 *   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
-<!-- 5. 📚 精致书架版块 (卡片式) -->
+<!-- 5. 📚 精致书架版块 (卡片式布局) -->
 ### 📙 My Bookshelf 
 
 #### 📖 《雪国》 | Snow Country
@@ -43,7 +43,10 @@ I am currently a student interested in programming. Currently learning Python an
 
 ---
 
-<!-- 6. 语言和工具 (已为你精简排版) -->
+<!-- 6. 项目与技能 -->
+### 📂 Projects
+*   **My-Blog-Theme**: A minimalist hexagon theme for personal blogs.
+
 ### 🛠 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,7 +54,7 @@ I am currently a student interested in programming. Currently learning Python an
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- 7. 底部名言 (日文歌词 + 唯美日系手写感字体) -->
+<!-- 7. 底部名言 (日文歌词 + 唯美字体) -->
 ### 💬 My Favorite Quote
 
 <div align="center">

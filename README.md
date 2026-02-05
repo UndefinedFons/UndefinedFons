@@ -23,7 +23,7 @@ Currently learning Python and AI.
 *   🎓 **Student** majoring in AI Study.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
 *   🌱 Learning **Python** and **AI**.
-*   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
+*   💬 Ask me about **Anime**, **Math**, or **AI**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
 <!-- 5. 📚 我的书架 -->

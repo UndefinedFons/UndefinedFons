@@ -1,28 +1,61 @@
-<!-- 1. 顶部二次元 Banner 图 (使用相对路径，稳！) -->
+<!-- 1. 顶部格言 (引用块风格) -->
+> "鳴らしていこう，継ぎ接ぎの音楽でいいから。" 
+> <br>
+> "Code is poetry."
+
+<!-- 2. 个人简介与 Moe 计数器 -->
+### Hi there, I'm Fons! 👋
+
+I am currently a student interested in programming.. 
+<br>
+Currently learning Python and AI.
+
+<!-- 萌萌的像素计数器 (已配置为你的用户名) -->
 <div align="center">
-  <img src="./illust_121768991_20241012_000409.jpg" width="100%" style="border-radius: 10px;" />
+  <img src="https://count.getloli.com/get/@UndefinedFons?theme=rule34" alt="Moe Counter" />
 </div>
 
-<!-- 2. 欢迎语与打字特效 -->
-<h1 align="center">Hi there, I'm Fons! 🌸</h1>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=Loves+Anime;Front-end+Developer;Undefined+but+Defined" alt="Typing SVG" />
+<!-- 3. 关于我 (仿照目标图的列表风格) -->
+### 🔗 About me
+
+*   🎓 **Student** majoring in AI Study.
+*   🔭 Currently working on **Personal Website** and **Theme Design**.
+*   🌱 Learning **Python** and **AI**.
+*   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
+*   ⚡ Fun fact: I can code for 10 hours if I have enough coffee ☕.
+
+<!-- 4. 项目经历 (帮你编了两个通用的，你可以修改) -->
+### 📂 Projects
+
+*   **My-Blog-Theme**: A minimalist hexagon theme for personal blogs.
+*   **Anime-List-App**: A simple web app to track my favorite anime watch list.
+
+<!-- 5. 语言和工具 (核心：彩色徽章) -->
+### 🛠 Languages and Tools
+
+<!-- 这里使用的是 shields.io 的 for-the-badge 样式，和目标图一致 -->
+<p>
+  <!-- 编程语言 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<br>
+<p>
+  <!-- 框架与工具 -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-<!-- 3. 个人数据卡片 (粉色二次元主题) -->
-<div align="center">
-  <!-- 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UndefinedFons&show_icons=true&theme=pastels&hide_border=true&bg_color=fff0&title_color=ff69b4&icon_color=ff69b4&text_color=708090" height="150" alt="stats graph" />
-  
-  <!-- 常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndefinedFons&layout=compact&theme=pastels&hide_border=true&bg_color=fff0&title_color=ff69b4&text_color=708090" height="150" alt="languages graph" />
-</div>
+<!-- 6. 底部随机名言卡片 (这也是目标图里的元素) -->
+### 💬 Random Quotes
 
-<!-- 底部装饰：放一个真正可爱的二次元动图，或者留空 -->
 <div align="center">
-  <br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E0b3E0b3E0b3E0b3E0b3E0b3E0b3E/LdDL5pLqQ3J7i/giphy.gif" width="100" />
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=true" width="100%" />
 </div>

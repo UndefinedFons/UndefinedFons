@@ -1,50 +1,49 @@
-<!-- 1. 顶部意境 Banner (选用了一张极其唯美的 Lo-fi 窗外空镜) -->
+<!-- 1. 顶部：心跳/声波活跃度插件 (稳定、唯美、契合音乐主题) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=UndefinedFons&fontSize=70&fontAlignY=45&animation=fadeIn&font=Lobster" width="100%" />
-  <!-- 如果你想要纯图片效果，可以换成下面这张更唯美的静止图 (去掉了胶囊边框) -->
-  <!-- <img src="https://r4.wallpaperflare.com/wallpaper/108/865/412/anime-anime-girls-original-characters-scenic-wallpaper-8900085d70f07c78401c117e3822108c.jpg" width="100%" style="border-radius: 15px;" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UndefinedFons&theme=react&area=true&hide_border=true&bg_color=00000000&color=FF69B4" width="100%" />
 </div>
 
-<!-- 2. 顶部格言 (更换了更有质感的排版) -->
-<p align="center">
-  <br>
-  <i>" 往幕胧，今犹在 "</i><br>
-  <b>Hazy veil of yore, Still lingers here.</b>
-</p>
+<!-- 2. 顶部格言 -->
+> "往幕胧，今犹在" 
+> <br>
+> "Hazy veil of yore, Still lingers here."
 
----
-
-<!-- 3. 个人成就奖杯 (类似猫猫计数器的趣味感，但更稳定好看) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UndefinedFons&theme=flat&no-frame=true&column=7&margin-w=15&full-width=true" />
-</div>
-
-<br>
-
-<!-- 4. 个人简介 -->
+<!-- 3. 个人简介 -->
 ### Hi there, I'm Fons! 👋
 I am currently a student interested in programming. Currently learning Python and AI.
 
 ---
 
-<!-- 5. 📚 精致书架 (强化了卡片视觉) -->
+<!-- 4. 关于我 -->
+### 🔗 About me
+*   🎓 **Student** majoring in AI Study.
+*   🔭 Currently working on **Personal Website** and **Theme Design**.
+*   🌱 Learning **Python** and **AI**.
+*   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
+*   ⚡ Small Interest: I like to romanticize rational things.🌸
+
+<!-- 5. 📚 精致书架版块 (卡片式) -->
 ### 📙 My Bookshelf 
 
-> #### 📖 《雪国》 | Snow Country
-> *   **Author:** `川端 康成` | **Status:** ![Reading](https://img.shields.io/badge/-Reading-87CEFA?style=flat-square)
-> *   **Progress:** ![Progress](https://geps.dev/progress/45?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4)
-> *   *「 穿过县界长长的隧道，便是雪国了。夜空下一片白茫茫。」*
+#### 📖 《雪国》 | Snow Country
+*   **Author:** `[ 川端 康成 ]`
+*   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
+*   **Progress:** 
+    ![Progress](https://geps.dev/progress/45?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(45%)*
+*   *「 穿过县界长长的隧道，便是雪国了。夜空下一片白茫茫。」*
 
 <br>
 
-> #### 📖 《老人与海》 | The Old Man and the Sea
-> *   **Author:** `Hemingway` | **Status:** ![Reading](https://img.shields.io/badge/-Reading-87CEFA?style=flat-square)
-> *   **Progress:** ![Progress](https://geps.dev/progress/70?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4)
-> *   *「 一个人可以被毁灭，但不能给打败。」*
+#### 📖 《老人与海》 | The Old Man and the Sea
+*   **Author:** `[ Hemingway ]`
+*   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
+*   **Progress:** 
+    ![Progress](https://geps.dev/progress/70?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(70%)*
+*   *「 一个人可以被毁灭，但不能给打败。」*
 
 ---
 
-<!-- 6. 技能徽章 (改为了更柔和的半透明样式) -->
+<!-- 6. 语言和工具 (已为你精简排版) -->
 ### 🛠 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,9 +51,9 @@ I am currently a student interested in programming. Currently learning Python an
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- 7. 底部名言 (使用了更纤细、空灵的日文字体) -->
+<!-- 7. 底部名言 (日文歌词 + 唯美日系手写感字体) -->
 ### 💬 My Favorite Quote
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=鳴らしていこう;継ぎ接ぎの音乐でいいから。" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=鳴らしていこう;継ぎ接ぎの音楽でいいから。" alt="Typing SVG" />
 </div>

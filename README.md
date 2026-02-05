@@ -1,7 +1,7 @@
 <!-- 1. 顶部格言 (引用块风格) -->
-> "鳴らしていこう，継ぎ接ぎの音楽でいいから。" 
+> "鳴らしていこう，" 
 > <br>
-> "Code is poetry."
+> "即使音乐是这样零散而破碎."
 
 <!-- 2. 个人简介与 Moe 计数器 -->
 ### Hi there, I'm Fons! 👋
@@ -24,7 +24,7 @@ Currently learning Python and AI.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
 *   🌱 Learning **Python** and **AI**.
 *   💬 Ask me about **Anime**, **Math**, or **Front-end Tech**.
-*   ⚡ Fun fact: I can code for 10 hours if I have enough coffee ☕.
+*   ⚡ Small Interest: I like to romanticize rational things.🌸
 
 <!-- 4. 项目经历 (帮你编了两个通用的，你可以修改) -->
 ### 📂 Projects

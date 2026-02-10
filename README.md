@@ -19,7 +19,7 @@ I am currently a student interested in programming. Currently learning Python an
 *   🎓 **Student** majoring in AI Study.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
 *   🌱 Learning **Python** and **AI**.
-*   💬 Ask me about **Anime**, **Math**, or **AI Territory**.
+*   💬 Ask me about **Music**, **Math**, or **AI Territory**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
 <!-- 5. 📚 精致书架版块 (卡片式布局) -->

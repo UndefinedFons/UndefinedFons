@@ -22,28 +22,9 @@ I am currently a student interested in programming. Currently learning Python an
 *   💬 Ask me about **Music**, **Math**, or **AI Territory**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
-<!-- 5. 📚 精致书架版块 (卡片式布局) -->
-### 📙 My Bookshelf 
-
-#### 📖 《雪国》 | Snow Country
-*   **Author:** `[ 川端 康成 ]`
-*   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
-*   **Progress:** 
-    ![Progress](https://geps.dev/progress/10?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(10%)*
-*   *「 穿过县界长长的隧道，便是雪国了。夜空下一片白茫茫。」*
-
-<br>
-
-#### 📖 《老人与海》 | The Old Man and the Sea
-*   **Author:** `[ Hemingway ]`
-*   **Status:** ![Reading](https://img.shields.io/badge/-Reading-48C9B0?style=flat-square)
-*   **Progress:** 
-    ![Progress](https://geps.dev/progress/50?dangerColor=87CEFA&warningColor=87CEFA&successColor=FF69B4) *(50%)*
-*   *「 一个人可以被毁灭，但不能被打败。」*
-
 ---
 
-<!-- 6. 🛠 技能与工具 (已分行处理) -->
+<!-- 5. 🛠 技能与工具 (已分行处理) -->
 ### 🛠 Languages and Tools
 
 #### 💻 Languages
@@ -55,7 +36,7 @@ I am currently a student interested in programming. Currently learning Python an
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- 7. 底部名言 -->
+<!-- 6. 底部名言 -->
 ### 💬 My Favorite Quote
 
 <div align="center">

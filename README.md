@@ -4,9 +4,9 @@
 </div>
 
 <!-- 2. 顶部格言 -->
-> "往幕胧，今犹在" 
+> "" 
 > <br>
-> "Hazy veil of yore, Still lingers here."
+> ""
 
 <!-- 3. 个人简介 -->
 ### Hi there, I'm Fons! 👋

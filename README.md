@@ -13,8 +13,8 @@ I am currently a student interested in programming. Currently learning Python an
 ### 🔗 About me
 *   🎓 **Student** majoring in AI Study.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
-*   🌱 Learning **Python** and **AI**.
-*   💬 Ask me about **Music**, **Math**, or **AI Territory**.
+*   🌱 Learning **Design** and **AI**.
+*   💬 Ask me about **Music**, **Math**, or **AI**.
 *   ⚡ Small Interest: I like to romanticize rational things.🌸
 
 ---

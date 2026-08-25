@@ -5,7 +5,7 @@
 
 <!-- 2. 个人简介 -->
 ### Hi there, I'm Fons! 👋
-I am currently a student interested in programming. Currently learning Design and AI.
+I am currently a student interested in programming.
 
 ---
 

@@ -11,7 +11,7 @@ I am currently a student interested in programming.
 
 <!-- 3. 关于我 -->
 ### 🔗 About me
-*   🎓 **Student** majoring in AI Study.
+*   🎓 **Student** interested in AI and technology.
 *   🔭 Currently working on **Personal Website** and **Theme Design**.
 *   🌱 Learning **Design** and **AI**.
 *   💬 Ask me about **Music**, **Math**, or **AI**.

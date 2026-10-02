@@ -1,39 +1,58 @@
-<!-- 1. 顶部胶囊 Banner (已改为樱粉色 #ffb7c5) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=250&section=header&text=UndefinedFons&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=55&descAlign=50&font=Lobster&v=3" width="100%" />
+
+# Fons
+
+*I like to romanticize rational things.*
+
+`code` · `design` · `AI` · `language` · `music`
+
 </div>
 
-<!-- 2. 个人简介 -->
-### Hi there, I'm Fons! 👋
-I am currently a student interested in programming.
+<br>
 
----
+### about
 
-<!-- 3. 关于我 -->
-### 🔗 About me
-*   🎓 **Student** interested in AI and technology.
-*   🔭 Currently working on **Personal Website** and **Theme Design**.
-*   🌱 Learning **Design** and **AI**.
-*   💬 Ask me about **Music**, **Math**, or **AI**.
-*   ⚡ Small Interest: I like to romanticize rational things.🌸
+I like making things where **technology, design, and ideas** meet.
 
----
+Curious about how things work, how they feel, and the little details in between.
 
-<!-- 4. 🛠 技能与工具 (已分行处理) -->
-### 🛠 Languages and Tools
+<br>
 
-#### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### code
 
-#### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,swift,py,html,css,react,git,github,cloudflare,vercel&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,swift,py,html,css,react,git,github,cloudflare,vercel&theme=light">
+    <img alt="Languages and tools" src="https://skillicons.dev/icons?i=js,swift,py,html,css,react,git,github,cloudflare,vercel&theme=light">
+  </picture>
 </p>
 
-<!-- 5. 底部名言 -->
-### 💬 My Favorite Quote
+<p align="center">
+  <sub>JavaScript · Swift · Python · HTML/CSS · React · Git · Cloudflare · Vercel</sub>
+</p>
+
+<br>
+
+### interests
+
+<p align="center">
+  visual design · interaction · AI · language · music · visual novels
+</p>
+
+<br>
+
+### 言葉
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=鳴らしていこう;継ぎ接ぎの音楽でいいから。" alt="Typing SVG" />
+
+### 鳴らしていこう  
+### 継ぎ接ぎの音楽でいいから。
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://count.getloli.com/@UndefinedFons?theme=asoul&padding=6&scale=0.8&align=center&pixelated=1&darkmode=auto" alt="visitor counter" />
 </div>

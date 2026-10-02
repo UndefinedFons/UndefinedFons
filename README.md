@@ -9,6 +9,12 @@ Student and maker interested in design, technology, AI, and language.
 - Curious about AI, language, information, and the web.
 - Music is a big part of my everyday life.
 
+---
+
+<p align="center">
+  <i>鳴らしていこう<br>継ぎ接ぎの音楽でいいから。</i>
+</p>
+
 # Languages and Tools
 
 <div style="display: flex;">
@@ -25,9 +31,3 @@ Student and maker interested in design, technology, AI, and language.
 <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=ffffff" />
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=ffffff" />
 </div>
-
----
-
-<p align="center">
-  <i>鳴らしていこう<br>継ぎ接ぎの音楽でいいから。</i>
-</p>

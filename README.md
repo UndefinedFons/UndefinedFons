@@ -1,6 +1,6 @@
 > "I like to romanticize rational things."
 
-Fons. Student and maker interested in design, technology, AI, and language.
+Student and maker interested in design, technology, AI, and language.
 
 # About me
 
@@ -26,16 +26,8 @@ Fons. Student and maker interested in design, technology, AI, and language.
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=ffffff" />
 </div>
 
-# Interests
+---
 
-Visual Design · Interaction · AI · Web · Language · Music
-
-# Favorite Quote
-
-<div align="center">
-
-### 鳴らしていこう
-
-**継ぎ接ぎの音楽でいいから。**
-
-</div>
+<p align="center">
+  <i>鳴らしていこう<br>継ぎ接ぎの音楽でいいから。</i>
+</p>

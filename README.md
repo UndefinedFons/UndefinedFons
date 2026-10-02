@@ -33,8 +33,3 @@ Student and maker interested in design, technology, AI, and language.
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=ffffff" />
 </div>
 
-# Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UndefinedFons&theme=minimal&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-</p>
